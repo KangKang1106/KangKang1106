@@ -27,4 +27,5 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangKang1106)](https://github.com/KangKang1106/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangKang1106&show_icons=true&theme=radical)
